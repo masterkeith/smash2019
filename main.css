@@ -1,0 +1,87 @@
+body{
+   background-image: url(https://thumbs.dreamstime.com/t/blue-smokey-ink-swirling-around-water-texture-good-background-blue-smokey-ink-water-background-108349744.jpg);
+   background-size: cover;
+    background-repeat: no-repeat;
+   font-size: 20pt;
+   color: white;
+}
+
+#pl{
+  text-align: right;
+  border-bottom: solid black;
+}
+
+
+ #olp {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 907px;
+  float: right; 
+  background-color: rgba(0,0,0,0.4); }
+
+ #sup {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 1040px;
+  float: left; 
+  background-color: rgba(0,0,0,0.4); }
+
+  #people {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 1040px;
+  float: left; 
+  background-color: rgba(0,0,0,0.4); }
+  
+   #master {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 1040px;
+  float: left; 
+  background-color: rgba(0,0,0,0.4); }
+
+#soo {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 907px;
+  float: right; 
+  background-color: rgba(0,0,0,0.4);
+}
+#ok{
+  float: left;
+  width: 320px;
+   clear: right;
+   height: 550px;
+}
+
+#ik {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+#ik a{
+  float: left;
+}
+
+#ik a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* Change the link color to teal on hover */
+#ik a:hover {
+  background-color: teal;
+  color:white;
+}
+
+
+.active {
+  background-color: red;
+}
+
+
